@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there. I am Alsu Shaikhina 👋
 
-<!--
-**anarovna/anarovna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm an aspiring Data Analyst.
+- ⚡ I closely follow the trends and strategies of successful companies.
+- 💬 I work remotely.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools:
+<img align="left" alt="HTML5" width="90px" src="https://github.com/anarovna/anarovna/blob/main/round7.png" />
+<img align="left" alt="HTML5" width="130px" src="https://github.com/anarovna/anarovna/blob/main/i.webp" />
+<img align="left" alt="HTML5" width="210px" src="https://github.com/anarovna/anarovna/blob/main/239-2391882_microsoft-office-training-microsoft-office-online-logo.jpeg" />
+<img align="left" alt="HTML5" width="150px" src="https://github.com/anarovna/anarovna/blob/main/62e14245eb4d9a9dc054c181.png" />
+<img align="left" alt="HTML5" width="85px" src="https://github.com/anarovna/anarovna/blob/main/1cestart_94341.png" />
